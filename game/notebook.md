@@ -4,7 +4,7 @@
 
 ## Suspects
 - [ ] The Blacksmith
-- [ ] The Gardener
+- [X] The Gardener
 - [ ] The Mayor
 
 ## Weapons

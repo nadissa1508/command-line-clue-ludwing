@@ -20,3 +20,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 # History
 
 clue 1: suspicius activity around houses
+clue 2: A trail of scattered papers points deeper into the mansion.

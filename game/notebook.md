@@ -24,5 +24,7 @@ clue 2: A trail of scattered papers points deeper into the mansion.
 clue 3: found the gardener in somewhere.
 clue 4: Go back and check the pond in the park.
 clue 5: found leather gloves but that isn't a weapon.
+clue 6: Through the window, you spot movement in the direction of the dock.
+clue 7: Check the playground in the park.
 
 

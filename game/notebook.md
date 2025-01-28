@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Clockmaker
-- [ ] The Shopkeeper
+- [X] The Shopkeeper
 - [ ] The Gardener
 
 ## Weapons
@@ -26,5 +26,8 @@ Found the Journalist in the study
 
 clue 2: Security cameras caught movement near the playground entrance.
 Found Paint Brush in gazeboo!
+
+clue 3: Maybe we should check back in the school.
+Found the Shopkeeper in the playground!
 
 

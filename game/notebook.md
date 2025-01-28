@@ -41,6 +41,7 @@ Found heavy book in the gymnasium
 Found the postman in the storage
 Found Antique Compass and the Musician in the market
 Found silver watch in the town hall
+Found Leather Gloves, Wooden Box and the Police Officer in the council chamber
 
 
 

@@ -6,7 +6,7 @@
 - [ ] The Gardener
 
 ## Weapons
-- [ ] Paint Brush
+- [X] Paint Brush
 - [ ] Brass Candlestick
 - [ ] Glass Bottle
 
@@ -25,4 +25,6 @@ Found Old key in the study
 Found the Journalist in the study
 
 clue 2: Security cameras caught movement near the playground entrance.
+Found Paint Brush in gazeboo!
+
 

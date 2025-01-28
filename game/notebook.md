@@ -39,7 +39,7 @@ clue 5: Go back and check the kitchen in the school.
 Found Brass Candlestick it the kitchen at the school!
 Found heavy book in the gymnasium
 Found the postman in the storage
-Found Antique Compass in the market
+Found Antique Compass and the Musician in the market
 
 
 

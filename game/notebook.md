@@ -19,8 +19,10 @@ Location of the crime is still unknown - the room must have been empty when it h
 
 # History
 
-clue 1: suspicius activity around houses
+clue 1: suspicius activity around houses.
 clue 2: A trail of scattered papers points deeper into the mansion.
-clue 3: found the gardener in somewhere
+clue 3: found the gardener in somewhere.
 clue 4: Go back and check the pond in the park.
+clue 5: found leather gloves but that isn't a weapon.
+
 

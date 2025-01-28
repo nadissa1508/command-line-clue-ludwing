@@ -35,6 +35,9 @@ clue 4: The dust on the floor shows a clear path heading to the cafeteria.
 Found the Clockmaker in the school!
 Found the Jocker in cafeteria
 
+clue 5: Go back and check the kitchen in the school.
+
+
 
 
 

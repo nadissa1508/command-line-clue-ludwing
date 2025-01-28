@@ -29,5 +29,6 @@ Found Paint Brush in gazeboo!
 
 clue 3: Maybe we should check back in the school.
 Found the Shopkeeper in the playground!
+Found The Banker in the dock
 
 

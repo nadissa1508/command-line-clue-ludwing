@@ -23,3 +23,6 @@ Found the Mayor in the greenhouse
 Found Fountain pen in the library
 Found Old key in the study
 Found the Journalist in the study
+
+clue 2: Security cameras caught movement near the playground entrance.
+

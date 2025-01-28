@@ -7,7 +7,7 @@
 
 ## Weapons
 - [X] Paint Brush
-- [ ] Brass Candlestick
+- [X] Brass Candlestick
 - [ ] Glass Bottle
 
 ## Notes
@@ -36,6 +36,7 @@ Found the Clockmaker in the school!
 Found the Jocker in cafeteria
 
 clue 5: Go back and check the kitchen in the school.
+Found Brass Candlestick it the kitchen at the school!
 
 
 

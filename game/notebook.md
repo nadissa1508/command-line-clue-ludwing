@@ -31,4 +31,7 @@ clue 3: Maybe we should check back in the school.
 Found the Shopkeeper in the playground!
 Found The Banker in the dock
 
+clue 4: The dust on the floor shows a clear path heading to the cafeteria.
+
+
 

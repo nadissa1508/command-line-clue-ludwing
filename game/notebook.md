@@ -27,6 +27,8 @@ clue 5: found leather gloves but that isn't a weapon.
 clue 6: Through the window, you spot movement in the direction of the dock.
 clue 7: Check the playground in the park.
 clue 8: Investigation Conclusion: the murdered happend in the playground
+clue 9: found Bronze Trophy in the shops
+
 
 
 

@@ -40,6 +40,7 @@ Found Brass Candlestick it the kitchen at the school!
 Found heavy book in the gymnasium
 Found the postman in the storage
 Found Antique Compass and the Musician in the market
+Found silver watch in the town hall
 
 
 

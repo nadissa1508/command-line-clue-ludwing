@@ -18,4 +18,4 @@ Location of the crime is still unknown - the room must have been empty when it h
 ## History
 
 clue 1: The night watchman spoke with The Tailor, who noticed an unfamiliar figure lurking near the gazebo.
-
+Found the Chef in the mansion
